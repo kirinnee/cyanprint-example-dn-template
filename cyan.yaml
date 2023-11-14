@@ -1,0 +1,10 @@
+username: kirinnee
+name: dn-template-example
+description: .NET Template example
+project: https://github.com/kirinnee/cyanprint-example-dn-template
+source: https://github.com/kirinnee/cyanprint-example-dn-template
+email: kirinnee97@gmail.com
+tags: []
+readme: cyan/README.MD
+processors: ["kirinnee/dotnet-handlebar"]
+plugins: []
